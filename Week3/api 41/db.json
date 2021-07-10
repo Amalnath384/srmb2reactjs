@@ -1,0 +1,24 @@
+{
+  "studenst": [
+    {
+      "id": 1,
+      "name": "Amalnath",
+      "regno": 4254,
+      "email":"amal@g.com"
+    },
+    {
+      "id": 2,
+      "name": "Bala",
+      "regno": 4255,
+      "email":"bala@g.com"
+    },
+    {
+      "id": 3,
+      "name": "vinay",
+      "regno": 4256,
+      "email":"vinay@g.com"
+    }
+  
+  
+  ]
+}

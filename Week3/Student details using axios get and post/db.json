@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "fname": "ahm",
+      "lname": "asdsd",
+      "age": "10",
+      "email": "amal@gma.com",
+      "password": "sdfsdfv",
+      "Gender": "Male",
+      "country": "India",
+      "id": 1
+    }
+  ]
+}
